@@ -1,24 +1,24 @@
 {
-  "store_id": 5350,
-  "name": "asheecalcados",
   "domain": "asheecalcados.netlify.app",
-  "short_name": "asheecalcados",
-  "description": "asheecalcados",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/asheecalcados",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "Ashee Calçados",
+  "short_name": "Ashee",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "repository": "ecomplus-stores/asheecalcados"
+  "secondary_color": "#393e46",
+  "icon": "/img/icon.png",
+  "store_id": 5350,
+  "description": "Ashee Calçados",
+  "large_icon": "/img/large-icon.png"
 }
