@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
+    "text": "10% DE DESCONTO NA SUA PRIMEIRA COMPRA!",
     "link": "/promotion"
   },
   "contacts_stripe": {
@@ -12,6 +12,9 @@
       {
         "title": "Esta loja é um PWA",
         "link": "/posts/esta-loja-e-um-pwa"
+      },
+      {
+        "title": "10% DE DESCONTO NA SUA PRIMEIRA COMPRA!"
       }
     ],
     "phone_wpp": true,
