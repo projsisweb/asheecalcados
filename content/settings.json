@@ -8,17 +8,17 @@
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/asheecalcados",
-  "logo": "/img/uploads/logo.png",
+  "logo": "/img/uploads/logo-ashee-calcados-site.png",
   "name": "Ashee Calçados",
   "short_name": "Ashee",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "favicon": "/img/uploads/favicon.png",
+  "favicon": "/img/uploads/icone.png",
   "country_code": "BR",
   "secondary_color": "#393e46",
-  "icon": "/img/icon.png",
+  "icon": "/img/uploads/icone.png",
   "store_id": 5350,
   "description": "Ashee Calçados",
-  "large_icon": "/img/large-icon.png"
+  "large_icon": "/img/uploads/icone.png"
 }
